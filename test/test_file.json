@@ -1,0 +1,5 @@
+{
+  "version": "{DEVELOPMENT.LOCAL}",
+  "description": "Custom semantic versioning plugin",
+  "main": "index.js"
+}
